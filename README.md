@@ -33,9 +33,8 @@ Sou um desenvolvedor **Full Stack** com 1 ano de experiência, trabalhando com *
 Se você está procurando por um desenvolvedor dedicado, com foco em qualidade, organização e entrega, estou aberto a **freelas** e **parcerias** para novos projetos.  
 Entre em contato comigo por aqui mesmo no GitHub ou através das redes abaixo:
 
-- 📧 **Email:** seuemail@exemplo.com  
-- 💼 **LinkedIn:** [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
-- 🌐 **Portfólio:** [seusite.com](https://seusite.com) *(opcional)*
+- 📧 **Email:** Felipesantana87146520@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/seunome](https://linkedin.com/in/luisfelipedev)
 
 ---
 
