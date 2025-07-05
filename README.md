@@ -34,7 +34,7 @@ Se você está procurando por um desenvolvedor dedicado, com foco em qualidade, 
 Entre em contato comigo por aqui mesmo no GitHub ou através das redes abaixo:
 
 - 📧 **Email:** Felipesantana87146520@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/seunome](https://linkedin.com/in/luisfelipedev)
+- 💼 **LinkedIn:** [linkedin.com/in/luisfelipedev](https://linkedin.com/in/luisfelipedev)
 
 ---
 
